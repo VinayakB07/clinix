@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "771354977980",
+    "project_id": "clinx-83904",
+    "storage_bucket": "clinx-83904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771354977980:android:e6f8966b08cf9b47e252b9",
+        "android_client_info": {
+          "package_name": "com.example.clinx"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7iEpwHVmWfrpbC60L-oWXZ0FCi5liID4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
